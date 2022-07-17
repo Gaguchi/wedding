@@ -70,7 +70,7 @@ supportsCssVars() || alert("Please view this website in a modern browser that su
 			<h2 class="tiles__title">Приглашение</h2>
 		</section>
 		<section class="content">
-			<p class="content__text content__text--centered" data-scroll="" data-scroll-speed="4">Будем рады видеть вас на нашей свадьбе <strong>28.08.2022</strong><br>г. Зугдиди, Грузия<br>С вас  хорошее настроение, с нас нескончаемые потоки вина!</p>
+			<p class="content__text content__text--centered" data-scroll="" data-scroll-speed="4">Будем рады видеть вас на нашей свадьбе <strong>28.08.2022</strong><br>г. Зугдиди, Грузия<br>С вас  хорошее настроение, с нас нескончаемые потоки вина!</p><br><p>Больше информации тут.</p>
 							
 				<div class="content__text content__text--centered" data-scroll="" data-scroll-speed="4"><form action="mail_handler.php" method="post">
 				Для подтверждения своего участия впишите свое имя: <input type="text" name="first_name"><br>
