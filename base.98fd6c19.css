@@ -147,7 +147,7 @@ main {
 
 .content {
 	padding: 3rem;
-	min-height: 90vh;
+	min-height: 60vh;
 	display: flex;
 	position: relative;
 	flex-direction: column;
@@ -183,12 +183,13 @@ main {
 }
 
 .content__title {
-	font-size: 9vw;
-	line-height: 0.8;
-	margin: 0 0 3rem 0;
-	font-weight: 400;
-	max-width: 800px;
-	will-change: transform;
+	font-size: 10vw;
+    line-height: 0.8;
+    margin: 0 0 3rem 0;
+    font-weight: 700;
+    max-width: 800px;
+    will-change: transform;
+    font-family: span, serif;
 }
 
 .content__text {

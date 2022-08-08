@@ -46,7 +46,7 @@
 
 		<div class="nav-links">
 			<a href="boriskaraia.com" target="_blank">Главная Страница</a>
-			<a href="boriskaraia.com/guide" target="_blank">Гайд</a>
+			<a href="boriskaraia.com/guide.php" target="_blank">Гайд</a>
 		</div>
 	</div>
 	<main data-scroll-container="">
