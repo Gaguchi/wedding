@@ -662,6 +662,7 @@ html.has-scroll-dragging {
 	font-size: 22px;
 	color: #fff;
 	padding: 10px 10px 10px 10px;
+	text-shadow: -1px -1px 0px #111111, 1px -1px 0 #111111, 1px 1px 0 #111111, 1.5px 1.5px 0 #d8d8d8;
   }
   
   .nav > .nav-btn {
@@ -682,7 +683,8 @@ html.has-scroll-dragging {
   }
   
   .nav > .nav-links > a:hover {
-	background-color: rgba(0, 0, 0, 0.3);
+	background-color: rgba(17 17 17);
+	text-shadow: -1px -1px 0px #111111, 1px -1px 0 #111111, 1px 1px 0 #111111, 1.5px 1.5px 0 #ffffff;
   }
   
   .nav > #nav-check {
@@ -701,7 +703,6 @@ html.has-scroll-dragging {
 	.nav > .nav-header {
 	  display: inline;
 	  float: none;
-	  text-shadow: -1px -1px 0px darkgrey, 1px -1px 0 #111111, -1px 1px 0 #111111, 1px 1px 0 darkgrey;
 	}
 
 	.nav > .nav-btn > label {
@@ -711,7 +712,7 @@ html.has-scroll-dragging {
 	  padding: 13px;
 	}
 	.nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
-	  background-color: rgba(0, 0, 0, 0.3);
+	  background-color: rgba(17 17 17);
 	}
 	.nav > .nav-btn > label > span {
 	  display: block;
@@ -723,7 +724,7 @@ html.has-scroll-dragging {
 	  position: absolute;
 	  display: block;
 	  width: 100%;
-	  background-color: #111;
+	  background-color: #111111f0;
 	  height: 0px;
 	  transition: all 0.3s ease-in;
 	  overflow-y: hidden;
