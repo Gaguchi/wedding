@@ -13,19 +13,42 @@
 	<link rel="stylesheet" type="text/css" href="base.98fd6c19.css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Yeseva+One">
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
-	
-	<script>document.documentElement.className = "js";
 
-var supportsCssVars = function supportsCssVars() {
-  var e,
-      t = document.createElement("style");
-  return t.innerHTML = "root: { --tmp-var: bold; }", document.head.appendChild(t), e = !!(window.CSS && window.CSS.supports && window.CSS.supports("font-weight", "var(--tmp-var)")), t.parentNode.removeChild(t), e;
-};
+	<script>
+		document.documentElement.className = "js";
 
-supportsCssVars() || alert("Please view this website in a modern browser that supports CSS Variables.");</script>
+		var supportsCssVars = function supportsCssVars() {
+			var e,
+				t = document.createElement("style");
+			return t.innerHTML = "root: { --tmp-var: bold; }", document.head.appendChild(t), e = !!(window.CSS && window
+				.CSS.supports && window.CSS.supports("font-weight", "var(--tmp-var)")), t.parentNode.removeChild(t), e;
+		};
+
+		supportsCssVars() || alert("Please view this website in a modern browser that supports CSS Variables.");
+	</script>
 </head>
 
 <body class="demo-2 loading">
+	<div class="nav">
+		<input type="checkbox" id="nav-check">
+		<div class="nav-header">
+			<div class="nav-title">
+				GAGA&BETA
+			</div>
+		</div>
+		<div class="nav-btn">
+			<label for="nav-check">
+				<span></span>
+				<span></span>
+				<span></span>
+			</label>
+		</div>
+
+		<div class="nav-links">
+			<a href="boriskaraia.com" target="_blank">Главная Страница</a>
+			<a href="boriskaraia.com/guide" target="_blank">Гайд</a>
+		</div>
+	</div>
 	<main data-scroll-container="">
 		<section id="header" class="content content--fixed">
 		</section>
@@ -70,18 +93,25 @@ supportsCssVars() || alert("Please view this website in a modern browser that su
 			<h2 class="tiles__title">Приглашение</h2>
 		</section>
 		<section class="content">
-			<p class="content__text content__text--centered" data-scroll="" data-scroll-speed="4">Будем рады видеть вас на нашей свадьбе <strong>28.08.2022</strong><br>г. Зугдиди, Грузия<br>С вас  хорошее настроение, с нас нескончаемые потоки вина!</p><br><p>Больше информации тут.</p>
-							
-				<div class="content__text content__text--centered" data-scroll="" data-scroll-speed="4"><form action="mail_handler.php" method="post">
-				Для подтверждения своего участия впишите свое имя: <input type="text" name="first_name"><br>
-				<input type="submit" name="submit" value="Подтвердить">
-				</form></div>
+			<p class="content__text content__text--centered" style="margin-bottom: 0px;" data-scroll=""
+				data-scroll-speed="4">Будем рады видеть вас на нашей свадьбе <strong>28.08.2022</strong><br>г. Зугдиди,
+				Грузия<br>С вас хорошее настроение, с нас нескончаемые потоки вина!</p><br>
+			<div class="content__text content__text--centered" style="margin-top: 0px ;" data-scroll=""
+				data-scroll-speed="4">
+				<form action="mail_handler.php" method="post">
+					Для подтверждения своего участия впишите свое имя: <input type="text" name="first_name"><br>
+					<input type="submit" name="submit" value="Подтвердить">
+				</form>
+			</div>
 		</section>
 		<section class="content content--feature">
-			<p class="content__breakout content__breakout--big" data-scroll="" data-scroll-speed="1" data-scroll-direction="horizontal">Love is life. And if you miss love, you miss life.</p>
-			<p class="content__breakout content__breakout--medium" data-scroll="" data-scroll-speed="2" data-scroll-direction="horizontal">I would rather share one lifetime with you than face all the ages of this world alone.</p>
+			<p class="content__breakout content__breakout--big" data-scroll="" data-scroll-speed="1"
+				data-scroll-direction="horizontal">Love is life. And if you miss love, you miss life.</p>
+			<p class="content__breakout content__breakout--medium" data-scroll="" data-scroll-speed="2"
+				data-scroll-direction="horizontal">I would rather share one lifetime with you than face all the ages of
+				this world alone.</p>
 		</section>
-		<section class="tiles tiles--small" id="grid2">
+		<!-- <section class="tiles tiles--small" id="grid2">
 			<div class="tiles__wrap"></div>
 			<div class="tiles__line">
 				<div id="myImg1" class="tiles__line-img" style="background-image:url(10.e7aba2b1.jpg)" data-scroll="" data-scroll-speed="1" data-scroll-target="#grid2"></div>
@@ -94,9 +124,9 @@ supportsCssVars() || alert("Please view this website in a modern browser that su
 				<div id="myImg8" class="tiles__line-img" style="background-image:url(16.a7efd02b.jpg)" data-scroll="" data-scroll-speed="-1" data-scroll-target="#grid2"></div>
 			</div>
 
-		</section>
+		</section> -->
 		<!-- The Modal -->
-		<section class="content" style="min-height: 50vh;padding: 1rem;">
+		<!-- <section class="content" style="min-height: 50vh;padding: 1rem;">
 			<div id="myModal" class="modal">
 				<img class="modal-content" id="img01">
 				<img class="modal-content" id="img02">
@@ -107,7 +137,7 @@ supportsCssVars() || alert("Please view this website in a modern browser that su
 				<img class="modal-content" id="img07">
 				<img class="modal-content" id="img08">
 			</div>
-		</section>
+		</section> -->
 		<section class="content">
 			<a class="backtop" data-scroll="" data-scroll-speed="4">Вернуться наверх</a>
 			<div class="frame frame--footer">
@@ -115,75 +145,6 @@ supportsCssVars() || alert("Please view this website in a modern browser that su
 		</section>
 	</main>
 	<script src="js.00a46daa.js"></script>
-	<script>
-		// Get the modal
-		var modal = document.getElementById("myModal");
-
-		// Get the image and insert it inside the modal - use its "alt" text as a caption
-		var img = document.getElementById("myImg1");
-		var modalImg = document.getElementById("img01");
-		img.onclick = function(){
-		modal.style.display = "block";
-		modalImg.src = "imgwide1.jpg";
-		}
-
-		var img = document.getElementById("myImg2");
-		var modalImg = document.getElementById("img02");
-		img.onclick = function(){
-		modal.style.display = "block";
-		modalImg.src = "imgwide2.jpg";
-		}
-
-		var img = document.getElementById("myImg3");
-		var modalImg = document.getElementById("img03");
-		img.onclick = function(){
-		modal.style.display = "block";
-		modalImg.src = "imgwide3.jpg";
-		}
-
-		var img = document.getElementById("myImg4");
-		var modalImg = document.getElementById("img04");
-		img.onclick = function(){
-		modal.style.display = "block";
-		modalImg.src = "imgwide4.jpg";
-		}
-
-		var img = document.getElementById("myImg5");
-		var modalImg = document.getElementById("img05");
-		img.onclick = function(){
-		modal.style.display = "block";
-		modalImg.src = "imgwide5.jpg";
-		}
-
-		var img = document.getElementById("myImg6");
-		var modalImg = document.getElementById("img06");
-		img.onclick = function(){
-		modal.style.display = "block";
-		modalImg.src = "imgwide6.jpg";
-		}
-		
-		var img = document.getElementById("myImg7");
-		var modalImg = document.getElementById("img07");
-		img.onclick = function(){
-		modal.style.display = "block";
-		modalImg.src = "imgwide7.jpg";
-		}
-
-		var img = document.getElementById("myImg8");
-		var modalImg = document.getElementById("img08");
-		img.onclick = function(){
-		modal.style.display = "block";
-		modalImg.src = "imgwide8.jpg";
-		}
-
-		// Get the <span> element that closes the modal
-		var span = document.getElementsByClassName("close")[0];
-
-		// When the user clicks on <span> (x), close the modal
-		modal.onclick = function() { 
-		modal.style.display = "none";
-		}
-	</script>
 </body>
 
 </html>
