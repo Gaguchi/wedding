@@ -64,10 +64,10 @@
 			<div class="tiles__wrap">
 				<div class="tiles__line" data-scroll="" data-scroll-speed="2" data-scroll-target="#grid2"
 					data-scroll-direction="horizontal">
-					<div class="tiles__line-img" style="background-image:url(1.abdece96.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(2.40f30460.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(3.1e79277a.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(4.500b54f2.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(zug4.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(zug2.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(zug3.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(zug1.jpg)"></div>
 				</div>
 			</div>
 			<h2 class="tiles__title tiles__title--right tiles__title--full tiles__title--alt" data-scroll=""
@@ -82,6 +82,22 @@
 				хранится одна из посмертных масок Бонапарта. А также большая коллекция реликвии Дадиани и исторических
 				грузинских ценностей. А вокруг сада раскинулся красивущий ботанический сад.
 			</p>
+			<div class="image-row">
+				<div class="image-set">
+					<a class="example-image-link" href="zug1.jpg" data-lightbox="zugdidi-set" data-title="Старый город.">
+						<img class="example-image" src="zug1-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="zug2.jpg" data-lightbox="zugdidi-set" data-title="">
+						<img class="example-image" src="zug2-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="zug3-b.jpeg" data-lightbox="zugdidi-set" data-title="">
+						<img class="example-image" src="zug3-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="zug4.jpg" data-lightbox="zugdidi-set" data-title="">
+						<img class="example-image" src="zug4-sm.jpg" alt="">
+					</a>
+				</div>
+			</div>
 		</section>
 		<section class="tiles tiles--oneline" id="grid3">
 			<div class="tiles__wrap">
@@ -116,33 +132,32 @@
 				А ниже будут интересные места с фото и адресами, Тбилиси – город для пеших прогулок. Стройте маршрут и
 				вперёд!
 			</p>
-				<div class="image-row">
-					<div class="image-set">
-						<a class="example-image-link" href="tbi1.jpg" data-lightbox="example-set"
-							data-title="Старый город."><img class="example-image"
-								src="tbi1-sm.jpg" alt="Golden Gate Bridge with San Francisco in distance"></a>
-						<a class="example-image-link" href="tbi2.jpg" data-lightbox="example-set"
-							data-title="Or press the right arrow on your keyboard."><img class="example-image"
-								src="tbi2-sm.jpg" alt="Forest with mountains behind"></a>
-						<a class="example-image-link" href="tbi3.jpg" data-lightbox="example-set"
-							data-title="The next image in the set is preloaded as you're viewing."><img
-								class="example-image" src="tbi3-sm.jpg"
-								alt="Bicyclist looking out over hill at ocean"></a>
-						<a class="example-image-link" href="tbi4.jpg" data-lightbox="example-set"
-							data-title="Click anywhere outside the image or the X to the right to close."><img
-								class="example-image" src="tbi4-sm.jpg"
-								alt="Small lighthouse at bottom with ocean behind"></a>
-					</div>
+			<div class="image-row">
+				<div class="image-set">
+					<a class="example-image-link" href="tbi1.jpg" data-lightbox="example-set"
+						data-title="Старый город."><img class="example-image" src="tbi1-sm.jpg"
+							alt="Golden Gate Bridge with San Francisco in distance"></a>
+					<a class="example-image-link" href="tbi2.jpg" data-lightbox="example-set"
+						data-title="Or press the right arrow on your keyboard."><img class="example-image"
+							src="tbi2-sm.jpg" alt="Forest with mountains behind"></a>
+					<a class="example-image-link" href="tbi3.jpg" data-lightbox="example-set"
+						data-title="The next image in the set is preloaded as you're viewing."><img
+							class="example-image" src="tbi3-sm.jpg" alt="Bicyclist looking out over hill at ocean"></a>
+					<a class="example-image-link" href="tbi4.jpg" data-lightbox="example-set"
+						data-title="Click anywhere outside the image or the X to the right to close."><img
+							class="example-image" src="tbi4-sm.jpg"
+							alt="Small lighthouse at bottom with ocean behind"></a>
 				</div>
+			</div>
 		</section>
 		<section class="tiles tiles--oneline" id="grid4">
 			<div class="tiles__wrap">
 				<div class="tiles__line" data-scroll="" data-scroll-speed="2" data-scroll-target="#grid4"
 					data-scroll-direction="horizontal">
-					<div class="tiles__line-img" style="background-image:url(1.abdece96.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(2.40f30460.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(3.1e79277a.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(4.500b54f2.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/kut1.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/kut2.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/kut3.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/kut4.jpg)"></div>
 				</div>
 			</div>
 			<h2 class="tiles__title tiles__title--right tiles__title--full tiles__title--alt" data-scroll=""
@@ -163,15 +178,31 @@
 				и удален оттуда в 2017 году из-за проведенных ремонтных работ по восстановлению.
 				Еще Гелати, Моцамета (ссылки, фото)
 			</p>
+			<div class="image-row">
+				<div class="image-set">
+					<a class="example-image-link" href="images/kut1-b.jpg" data-lightbox="kutaisi-set" data-title="">
+						<img class="example-image" src="images/kut1-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/kut2.jpg" data-lightbox="kutaisi-set" data-title="">
+						<img class="example-image" src="images/kut2-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/kut3.jpg" data-lightbox="kutaisi-set" data-title="">
+						<img class="example-image" src="images/kut3-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/kut4.jpg" data-lightbox="kutaisi-set" data-title="">
+						<img class="example-image" src="images/kut4-sm.jpg" alt="">
+					</a>
+				</div>
+			</div>
 		</section>
 		<section class="tiles tiles--oneline" id="grid5">
 			<div class="tiles__wrap">
 				<div class="tiles__line" data-scroll="" data-scroll-speed="-2" data-scroll-target="#grid5"
 					data-scroll-direction="horizontal">
-					<div class="tiles__line-img" style="background-image:url(5.2667ae3b.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(6.aa64fc47.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(7.5ac05771.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(8.94720f30.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/mart1.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/mart2.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/mart3.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/mart4.jpg)"></div>
 				</div>
 			</div>
 			<h2 class="tiles__title tiles__title--left tiles__title--full tiles__title--alt" data-scroll=""
@@ -181,15 +212,31 @@
 			<p class="content__text" data-scroll="" data-scroll-speed="2">Если хочется кататься на лодке по лазурной
 				воде – спешите в каньон Мартвили ( ссылка, адрес)
 			</p>
+			<div class="image-row">
+				<div class="image-set">
+					<a class="example-image-link" href="images/mart1.jpg" data-lightbox="martveli-set" data-title="">
+						<img class="example-image" src="images/mart1-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/mart2.jpg" data-lightbox="martveli-set" data-title="">
+						<img class="example-image" src="images/mart2-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/mart3.jpg" data-lightbox="martveli-set" data-title="">
+						<img class="example-image" src="images/mart3-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/mart4.jpg" data-lightbox="martveli-set" data-title="">
+						<img class="example-image" src="images/mart4-sm.jpg" alt="">
+					</a>
+				</div>
+			</div>
 		</section>
 		<section class="tiles tiles--oneline" id="grid6">
 			<div class="tiles__wrap">
 				<div class="tiles__line" data-scroll="" data-scroll-speed="2" data-scroll-target="#grid6"
 					data-scroll-direction="horizontal">
-					<div class="tiles__line-img" style="background-image:url(1.abdece96.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(2.40f30460.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(3.1e79277a.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(4.500b54f2.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/bor1.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/bor2.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/bor3.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/bor4.jpg)"></div>
 				</div>
 			</div>
 			<h2 class="tiles__title tiles__title--right tiles__title--full tiles__title--alt" data-scroll=""
@@ -199,15 +246,31 @@
 			<p class="content__text" data-scroll="" data-scroll-speed="2">Хотите попробовать термальных источников?
 				Езжайте в Боржоми или Саирме (ссылка -фото)
 			</p>
+			<div class="image-row">
+				<div class="image-set">
+					<a class="example-image-link" href="images/bor1.jpg" data-lightbox="borjomi-set" data-title="">
+						<img class="example-image" src="images/bor1-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/bor2.jpg" data-lightbox="borjomi-set" data-title="">
+						<img class="example-image" src="images/bor2-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/bor3.jpg" data-lightbox="borjomi-set" data-title="">
+						<img class="example-image" src="images/bor3-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/bor4.jpg" data-lightbox="borjomi-set" data-title="">
+						<img class="example-image" src="images/bor4-sm.jpg" alt="">
+					</a>
+				</div>
+			</div>
 		</section>
 		<section class="tiles tiles--oneline" id="grid7">
 			<div class="tiles__wrap">
 				<div class="tiles__line" data-scroll="" data-scroll-speed="-2" data-scroll-target="#grid7"
 					data-scroll-direction="horizontal">
-					<div class="tiles__line-img" style="background-image:url(5.2667ae3b.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(6.aa64fc47.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(7.5ac05771.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(8.94720f30.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/sat1.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/sat2.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/sat3.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/sat4.jpg)"></div>
 				</div>
 			</div>
 			<h2 class="tiles__title tiles__title--left tiles__title--full tiles__title--alt" data-scroll=""
@@ -218,15 +281,31 @@
 				динозавров, отправляйтесь в заповедник Сатаплиа, там же есть необычайные пещеры со сталактитами и
 				сталагмитами, освежиться в пещере, когда на улице +35 – идеально! (ссылка , фото)
 			</p>
+			<div class="image-row">
+				<div class="image-set">
+					<a class="example-image-link" href="images/sat1.jpg" data-lightbox="sataplia-set" data-title="">
+						<img class="example-image" src="images/sat1-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/sat2.jpg" data-lightbox="sataplia-set" data-title="">
+						<img class="example-image" src="images/sat2-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/sat3.jpg" data-lightbox="sataplia-set" data-title="">
+						<img class="example-image" src="images/sat3-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/sat4.jpg" data-lightbox="sataplia-set" data-title="">
+						<img class="example-image" src="images/sat4-sm.jpg" alt="">
+					</a>
+				</div>
+			</div>
 		</section>
 		<section class="tiles tiles--oneline" id="grid8">
 			<div class="tiles__wrap">
 				<div class="tiles__line" data-scroll="" data-scroll-speed="2" data-scroll-target="#grid8"
 					data-scroll-direction="horizontal">
-					<div class="tiles__line-img" style="background-image:url(1.abdece96.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(2.40f30460.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(3.1e79277a.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(4.500b54f2.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/var1.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/var2.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/var3.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/var4.jpg)"></div>
 				</div>
 			</div>
 			<h2 class="tiles__title tiles__title--right tiles__title--full tiles__title--alt" data-scroll=""
@@ -236,15 +315,31 @@
 			<p class="content__text" data-scroll="" data-scroll-speed="2">Если древность таки совсем увлекла – то стоит
 				посетить пещерные города Вардзии или Уплисцихе. (ссылка -фото)
 			</p>
+			<div class="image-row">
+				<div class="image-set">
+					<a class="example-image-link" href="images/var1.jpg" data-lightbox="vardzia-set" data-title="">
+						<img class="example-image" src="images/var1-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/var2.jpg" data-lightbox="vardzia-set" data-title="">
+						<img class="example-image" src="images/var2-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/var3.jpg" data-lightbox="vardzia-set" data-title="">
+						<img class="example-image" src="images/var3-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/var4.jpg" data-lightbox="vardzia-set" data-title="">
+						<img class="example-image" src="images/var4-sm.jpg" alt="">
+					</a>
+				</div>
+			</div>
 		</section>
-		<section class="tiles tiles--oneline" id="grid7">
+		<section class="tiles tiles--oneline" id="grid9">
 			<div class="tiles__wrap">
-				<div class="tiles__line" data-scroll="" data-scroll-speed="-2" data-scroll-target="#grid7"
+				<div class="tiles__line" data-scroll="" data-scroll-speed="-2" data-scroll-target="#grid9"
 					data-scroll-direction="horizontal">
-					<div class="tiles__line-img" style="background-image:url(5.2667ae3b.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(6.aa64fc47.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(7.5ac05771.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(8.94720f30.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/bat1.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/bat2.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/bat3.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/bat4.jpg)"></div>
 				</div>
 			</div>
 			<h2 class="tiles__title tiles__title--left tiles__title--full tiles__title--alt" data-scroll=""
@@ -255,6 +350,22 @@
 				такой современный, грузинский Вегас, как называют его соседи-турки. Есть еще пляжные курорты Шекветили,
 				Кобулети, Уреки (здесь магнитный черный песок) и много других. (фото, ссылки).
 			</p>
+			<div class="image-row">
+				<div class="image-set">
+					<a class="example-image-link" href="images/bat1.jpg" data-lightbox="batumi-set" data-title="">
+						<img class="example-image" src="images/bat1-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/bat2.jpg" data-lightbox="batumi-set" data-title="">
+						<img class="example-image" src="images/bat2-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/bat3.jpg" data-lightbox="batumi-set" data-title="">
+						<img class="example-image" src="images/bat3-sm.jpg" alt="">
+					</a>
+					<a class="example-image-link" href="images/bat4.jpg" data-lightbox="batumi-set" data-title="">
+						<img class="example-image" src="images/bat4-sm.jpg" alt="">
+					</a>
+				</div>
+			</div>
 		</section>
 
 

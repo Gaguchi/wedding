@@ -190,6 +190,7 @@ main {
     max-width: 800px;
     will-change: transform;
     font-family: span, serif;
+    text-shadow: -1px -1px 0px #111111, 1px -1px 0 #111111, 3px 3px 0 #111111, 4px 4px 0 #d8d8d8;
 }
 
 .content__text {
@@ -408,6 +409,7 @@ main {
 	font-family: span, serif;
 	font-weight: 700;
 	font-style: normal;
+	text-shadow: 2px 2px 0 #7e7e7e, 3px 3px 0 #424242;
 }
 
 .tiles__title--alt {
@@ -744,3 +746,7 @@ html.has-scroll-dragging {
 	  overflow-y: auto;
 	}
   }
+
+.shadow{
+    text-shadow: -1px -1px 0px #111111, 1px -1px 0 #111111, 1px 1px 0 #111111, 1.5px 1.5px 0 #d8d8d8;
+}
