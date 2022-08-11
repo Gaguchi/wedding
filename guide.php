@@ -64,10 +64,10 @@
 			<div class="tiles__wrap">
 				<div class="tiles__line" data-scroll="" data-scroll-speed="2" data-scroll-target="#grid2"
 					data-scroll-direction="horizontal">
-					<div class="tiles__line-img" style="background-image:url(zug4.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(zug2.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(zug3.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(zug1.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/zug4.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/zug2.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/zug3.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/zug1.jpg)"></div>
 				</div>
 			</div>
 			<h2 class="tiles__title tiles__title--right tiles__title--full tiles__title--alt" data-scroll=""
@@ -84,17 +84,17 @@
 			</p>
 			<div class="image-row">
 				<div class="image-set">
-					<a class="example-image-link" href="zug1.jpg" data-lightbox="zugdidi-set" data-title="Старый город.">
-						<img class="example-image" src="zug1-sm.jpg" alt="">
+					<a class="example-image-link" href="images/zug1.jpg" data-lightbox="zugdidi-set" data-title="Старый город.">
+						<img class="example-image" src="images/zug1-sm.jpg" alt="">
 					</a>
-					<a class="example-image-link" href="zug2.jpg" data-lightbox="zugdidi-set" data-title="">
-						<img class="example-image" src="zug2-sm.jpg" alt="">
+					<a class="example-image-link" href="images/zug2.jpg" data-lightbox="zugdidi-set" data-title="">
+						<img class="example-image" src="images/zug2-sm.jpg" alt="">
 					</a>
-					<a class="example-image-link" href="zug3-b.jpeg" data-lightbox="zugdidi-set" data-title="">
-						<img class="example-image" src="zug3-sm.jpg" alt="">
+					<a class="example-image-link" href="images/zug3-b.jpeg" data-lightbox="zugdidi-set" data-title="">
+						<img class="example-image" src="images/zug3-sm.jpg" alt="">
 					</a>
-					<a class="example-image-link" href="zug4.jpg" data-lightbox="zugdidi-set" data-title="">
-						<img class="example-image" src="zug4-sm.jpg" alt="">
+					<a class="example-image-link" href="images/zug4.jpg" data-lightbox="zugdidi-set" data-title="">
+						<img class="example-image" src="images/zug4-sm.jpg" alt="">
 					</a>
 				</div>
 			</div>
@@ -103,10 +103,10 @@
 			<div class="tiles__wrap">
 				<div class="tiles__line" data-scroll="" data-scroll-speed="-2" data-scroll-target="#grid3"
 					data-scroll-direction="horizontal">
-					<div class="tiles__line-img" style="background-image:url(tbi1.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(tbi2.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(tbi3.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(tbi4.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/tbi1.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/tbi2.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/tbi3.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/tbi4.jpg)"></div>
 				</div>
 			</div>
 			<h2 class="tiles__title tiles__title--left tiles__title--full tiles__title--alt" data-scroll=""
@@ -123,7 +123,7 @@
 						Струи Арагвы и Куры,<br>
 						Был монастырь…»<br></em></span><br>
 				Если хочется больше потрясных видов на город, то следует подняться на гору Мтацминда, это можно сделать
-				как пешком, так и на машине, а что еще круче – на фуникулёре. (Адрес остановки)
+				как пешком, так и на машине, а что еще круче – на фуникулёре. (<a href="https://www.google.com/maps/place/Tbilisi+Funicular/@41.6951096,44.7892493,15z/data=!4m5!3m4!1s0x0:0xdd5ffe417e42ef78!8m2!3d41.6951096!4d44.7892493">Адрес</a>)
 				Оттуда можно продолжить поэтический маршрут и спуститься к Пантеону. Первым и самым знаменитым
 				захоронением стала могила Грибоедова и его жены Нины Чавчавадзе.
 				Надгробие поэта венчает памятник в виде плачущей вдовы, а на могильной плите выгравирована надпись: «Ум
@@ -134,19 +134,19 @@
 			</p>
 			<div class="image-row">
 				<div class="image-set">
-					<a class="example-image-link" href="tbi1.jpg" data-lightbox="example-set"
-						data-title="Старый город."><img class="example-image" src="tbi1-sm.jpg"
-							alt="Golden Gate Bridge with San Francisco in distance"></a>
-					<a class="example-image-link" href="tbi2.jpg" data-lightbox="example-set"
-						data-title="Or press the right arrow on your keyboard."><img class="example-image"
-							src="tbi2-sm.jpg" alt="Forest with mountains behind"></a>
-					<a class="example-image-link" href="tbi3.jpg" data-lightbox="example-set"
-						data-title="The next image in the set is preloaded as you're viewing."><img
-							class="example-image" src="tbi3-sm.jpg" alt="Bicyclist looking out over hill at ocean"></a>
-					<a class="example-image-link" href="tbi4.jpg" data-lightbox="example-set"
-						data-title="Click anywhere outside the image or the X to the right to close."><img
-							class="example-image" src="tbi4-sm.jpg"
-							alt="Small lighthouse at bottom with ocean behind"></a>
+					<a class="example-image-link" href="images/tbi1.jpg" data-lightbox="example-set"
+						data-title=""><img class="example-image" src="images/tbi1-sm.jpg"
+							alt=""></a>
+					<a class="example-image-link" href="images/tbi2.jpg" data-lightbox="example-set"
+						data-title=""><img class="example-image"
+							src="images/tbi2-sm.jpg" alt=""></a>
+					<a class="example-image-link" href="images/tbi3.jpg" data-lightbox="example-set"
+						data-title=""><img
+							class="example-image" src="images/tbi3-sm.jpg" alt=""></a>
+					<a class="example-image-link" href="images/tbi4.jpg" data-lightbox="example-set"
+						data-title=""><img
+							class="example-image" src="images/tbi4-sm.jpg"
+							alt=""></a>
 				</div>
 			</div>
 		</section>
