@@ -55,39 +55,39 @@
 		<section class="tiles tiles--columns-rotated tiles--darker" id="grid">
 			<div class="tiles__wrap">
 				<div class="tiles__line" data-scroll="" data-scroll-speed="1" data-scroll-target="#grid">
-					<div class="tiles__line-img" style="background-image:url(1-min.4288a5ab.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(2-min.8df2b48a.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(3-min.6eb2ae3b.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(4-min.00a4d3b5.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(5-min.9b7e000b.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/1-min.4288a5ab.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/2-min.8df2b48a.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/3-min.6eb2ae3b.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/4-min.00a4d3b5.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/5-min.9b7e000b.jpg)"></div>
 				</div>
 				<div class="tiles__line" data-scroll="" data-scroll-speed="-1" data-scroll-target="#grid">
-					<div class="tiles__line-img" style="background-image:url(5-min.9b7e000b.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(6-min.c589022c.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(7-min.f89c86ad.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(8-min.0f72d51c.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(9-min.d9ab333b.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/5-min.9b7e000b.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/6-min.c589022c.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/7-min.f89c86ad.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/8-min.0f72d51c.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/9-min.d9ab333b.jpg)"></div>
 				</div>
 				<div class="tiles__line" data-scroll="" data-scroll-speed="1" data-scroll-target="#grid">
-					<div class="tiles__line-img" style="background-image:url(9-min.d9ab333b.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(10-min.5fb6b038.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(11-min.7ba439f9.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(12-min.00720ac3.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(13-min.e307c906.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/9-min.d9ab333b.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/10-min.5fb6b038.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/11-min.7ba439f9.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/12-min.00720ac3.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/13-min.e307c906.jpg)"></div>
 				</div>
 				<div class="tiles__line" data-scroll="" data-scroll-speed="-1" data-scroll-target="#grid">
-					<div class="tiles__line-img" style="background-image:url(13-min.e307c906.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(14-min.cdeefaff.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(15-min.7db16fac.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(16-min.572b4bb6.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(17-min.984c6c06.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/13-min.e307c906.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/14-min.cdeefaff.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/15-min.7db16fac.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/16-min.572b4bb6.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/17-min.984c6c06.jpg)"></div>
 				</div>
 				<div class="tiles__line" data-scroll="" data-scroll-speed="1" data-scroll-target="#grid">
-					<div class="tiles__line-img" style="background-image:url(17-min.984c6c06.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(18-min.a81df4bc.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(19-min.2454ad87.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(20-min.2c18eeb7.jpg)"></div>
-					<div class="tiles__line-img" style="background-image:url(1-min.4288a5ab.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/17-min.984c6c06.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/18-min.a81df4bc.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/19-min.2454ad87.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/20-min.2c18eeb7.jpg)"></div>
+					<div class="tiles__line-img" style="background-image:url(images/1-min.4288a5ab.jpg)"></div>
 				</div>
 			</div>
 			<h2 class="tiles__title">Приглашение</h2>
@@ -114,14 +114,14 @@
 		<!-- <section class="tiles tiles--small" id="grid2">
 			<div class="tiles__wrap"></div>
 			<div class="tiles__line">
-				<div id="myImg1" class="tiles__line-img" style="background-image:url(10.e7aba2b1.jpg)" data-scroll="" data-scroll-speed="1" data-scroll-target="#grid2"></div>
-				<div id="myImg2" class="tiles__line-img" style="background-image:url(20.5528d5b7.jpg)" data-scroll="" data-scroll-speed="-1" data-scroll-target="#grid2"></div>
-				<div id="myImg3" class="tiles__line-img" style="background-image:url(3.ecfa820e.jpg)" data-scroll="" data-scroll-speed="1" data-scroll-target="#grid2"></div>
-				<div id="myImg4" class="tiles__line-img" style="background-image:url(4.8ed29d64.jpg)" data-scroll="" data-scroll-speed="-1" data-scroll-target="#grid2"></div>
-				<div id="myImg5" class="tiles__line-img" style="background-image:url(19.8091b01d.jpg)" data-scroll="" data-scroll-speed="1" data-scroll-target="#grid2"></div>
-				<div id="myImg6" class="tiles__line-img" style="background-image:url(11.e75a941d.jpg)" data-scroll="" data-scroll-speed="-1" data-scroll-target="#grid2"></div>
-				<div id="myImg7" class="tiles__line-img" style="background-image:url(18.c5d0ab34.jpg)" data-scroll="" data-scroll-speed="1" data-scroll-target="#grid2"></div>
-				<div id="myImg8" class="tiles__line-img" style="background-image:url(16.a7efd02b.jpg)" data-scroll="" data-scroll-speed="-1" data-scroll-target="#grid2"></div>
+				<div id="myImg1" class="tiles__line-img" style="background-image:url(images/10.e7aba2b1.jpg)" data-scroll="" data-scroll-speed="1" data-scroll-target="#grid2"></div>
+				<div id="myImg2" class="tiles__line-img" style="background-image:url(images/20.5528d5b7.jpg)" data-scroll="" data-scroll-speed="-1" data-scroll-target="#grid2"></div>
+				<div id="myImg3" class="tiles__line-img" style="background-image:url(images/3.ecfa820e.jpg)" data-scroll="" data-scroll-speed="1" data-scroll-target="#grid2"></div>
+				<div id="myImg4" class="tiles__line-img" style="background-image:url(images/4.8ed29d64.jpg)" data-scroll="" data-scroll-speed="-1" data-scroll-target="#grid2"></div>
+				<div id="myImg5" class="tiles__line-img" style="background-image:url(images/19.8091b01d.jpg)" data-scroll="" data-scroll-speed="1" data-scroll-target="#grid2"></div>
+				<div id="myImg6" class="tiles__line-img" style="background-image:url(images/11.e75a941d.jpg)" data-scroll="" data-scroll-speed="-1" data-scroll-target="#grid2"></div>
+				<div id="myImg7" class="tiles__line-img" style="background-image:url(images/18.c5d0ab34.jpg)" data-scroll="" data-scroll-speed="1" data-scroll-target="#grid2"></div>
+				<div id="myImg8" class="tiles__line-img" style="background-image:url(images/16.a7efd02b.jpg)" data-scroll="" data-scroll-speed="-1" data-scroll-target="#grid2"></div>
 			</div>
 
 		</section> -->
