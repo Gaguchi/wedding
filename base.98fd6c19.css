@@ -92,7 +92,7 @@ body {
 
 a {
 	text-decoration: underline;
-	color: var(--color-link);
+	color: #3fa5ff;
 	outline: none;
 }
 
